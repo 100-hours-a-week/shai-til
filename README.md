@@ -8,4 +8,5 @@
 - 25.02.12: [웹의 구조 및 이해](https://github.com/100-hours-a-week/shai-til/blob/main/Feb/2025_02_12.md)
 - 25.02.18: [웹 소켓](https://github.com/100-hours-a-week/shai-til/blob/main/Feb/2025_02_18.md)
 - 25.02.19: [JavaScript 1](https://github.com/100-hours-a-week/shai-til/blob/main/Feb/2025_02_19.md)
-- 25.02.20: [딥다이브(JS)](https://github.com/100-hours-a-week/shai-til/blob/main/Feb/2025_02_20.md)
+- 25.02.20: [JavaScript 2](https://github.com/100-hours-a-week/shai-til/blob/main/Feb/2025_02_20.md)
+- 25.02.21: [딥다이브(JS)](https://github.com/100-hours-a-week/shai-til/blob/main/Feb/2025_02_20.md)
